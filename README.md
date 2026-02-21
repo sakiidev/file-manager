@@ -1,6 +1,6 @@
 # 📁 Gerenciador de Arquivos para Terminal
 
-Um gerenciador de arquivos completo e intuitivo para ser usado diretamente no terminal do Termux!
+Um gerenciador de arquivos completo e intuitivo para ser usado diretamente no terminal!
 
 ## ✨ Funcionalidades
 
